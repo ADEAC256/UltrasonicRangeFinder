@@ -6,4 +6,4 @@ In this project, the behaviour of the ultrasonic rangefinder and the servomotor 
 
 VHDL sources are in the /src folder. C sources are in /software. To validate the behavior of our IPs, we have carried out test benches that are in the /simu folder.
 
-Made by Alexandra Deac & Clément Roger - Polytech Sorbonne EISE4 
+# Made by Alexandra Deac & Clément Roger - Polytech Sorbonne EISE4 
